@@ -57,7 +57,7 @@ int main() {
 
     cout << triangle[0][0] << endl;
 
-    return 0;'
+    return 0;
 }
 
 */
